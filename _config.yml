@@ -17,26 +17,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#
 
-domain: elirussellweber.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://elirussellweber.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl:       # place folder name if the site is served in a subfolder
-
-
-title: Eli Weber - Personal Page
+title: Eli Weber
 email: eliweber04@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer
-
-
-github_username:  elirussellweber # the name of your GitHub account, used for social media links
+  A personal site to document my work and share say some things. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkdin_username: eli-r-weber
+github_username:  elirussellweber
 
 # Build settings
+theme: minima
+
 plugins:
   - jekyll-feed
-
-theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
