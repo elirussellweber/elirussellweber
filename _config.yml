@@ -27,8 +27,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkdin_username: eli-r-weber
 github_username:  elirussellweber
 
+sass:
+  sass_dir: _sass
+
+# DO NOT include theme: minima
+
+
+
 # Build settings
-theme: minima
+# theme: minima
 
 plugins:
   - jekyll-feed
