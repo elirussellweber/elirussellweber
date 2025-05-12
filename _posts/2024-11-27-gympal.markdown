@@ -4,8 +4,6 @@ title:  "Gympal - Fitness Tracker"
 date:   2024-11-27 15:08:33 -0500
 categories: jekyll update
 ---
-#GymPal - Fitness Tracker
-
 Gympal is a web application designed to give personal diet and exercise suggestions. Users start by inputing biometric data, weight goals, and a desired time frame. Gympal calculates a daily caloric deficit/surplus, and generates a weekly weight training plan suit the user's goals. Users can also generate appropriate recipes designed to hit caloric and macronutrient targets. Finally, users can easily track what exercises they completed and their weight over time, with a helpful chart visual.  
   
 Gympal is an open source .NET web application created in Visual Studio. Both of the routine generation features utilize OpenAI's Chat-gpt o1 API.  
