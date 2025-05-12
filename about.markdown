@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+#Eli Weber
+I'm a software engineer and graduate of The University of Alabama, class of 2025. I am interested in Backend Development, Autonomous Robotics, and Cloud Computing. I'm a big soccer fan and had the honor of winning the the 2024 Alabama Intramural Soccer Championship with the [Big Proteins](/assets/big-proteins-fc), quite possibly the greatest soccer team ever assembled in University of Alabama intramurals that year.  
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+To contact me please send me a message on [Linkedin](https://www.linkedin.com/in/eli-r-weber/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
