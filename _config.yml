@@ -21,7 +21,7 @@
 title: Eli Weber
 # email: eliweber04 [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal site to document my work and share some things. 
+  Eli Weber - Personal Site 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: eli-r-weber
